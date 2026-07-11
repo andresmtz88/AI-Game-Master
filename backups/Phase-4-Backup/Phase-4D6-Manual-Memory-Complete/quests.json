@@ -1,0 +1,256 @@
+{
+  "activeQuests": [
+    {
+      "id": "mystery-of-the-vanishing-stars-1780517575936",
+      "campaignId": "the-shattered-seal-1780517575936",
+      "campaignName": "The Shattered Seal",
+      "title": "Mystery of the Vanishing Stars",
+      "type": "main",
+      "status": "active",
+      "questLength": "medium",
+      "theme": "fantasy mystery",
+      "tone": "heroic",
+      "difficulty": "standard",
+      "playerExperienceLevel": "beginner",
+      "premise": "Stars have begun disappearing from the night sky, and with each loss, magic grows weaker in the realm. The party must uncover why celestial lights are fading before all magic vanishes forever.",
+      "mainConflict": "An ancient order has discovered a ritual to harvest stellar essence for immortality, unknowingly tearing holes in reality that will eventually consume the world.",
+      "primaryThreat": "Archmagus Velkor Wrenn, a once-noble scholar whose fear of death has driven him to desperate measures, leading a secret cabal called the Eternal Circle.",
+      "startingLocation": "Millhaven, a prosperous market town known for its observatory tower where the first star vanished three months ago.",
+      "importantNPCs": [
+        {
+          "name": "Sera Brightwind",
+          "role": "Town Astronomer",
+          "description": "An elderly half-elf who first noticed the vanishing stars and seeks brave souls to investigate the phenomenon."
+        },
+        {
+          "name": "Brother Aldric",
+          "role": "Repentant Cultist",
+          "description": "A former member of the Eternal Circle who fled after realizing the true cost of their ritual and now hides in fear."
+        },
+        {
+          "name": "Captain Mira Stoneshield",
+          "role": "Town Guard Leader",
+          "description": "A pragmatic dwarf captain initially skeptical of magical threats but becomes a valuable ally once convinced."
+        },
+        {
+          "name": "The Constellation Spirit",
+          "role": "Celestial Guide",
+          "description": "A mysterious being made of starlight who appears to those who prove themselves worthy, offering cryptic guidance."
+        }
+      ],
+      "acts": [
+        {
+          "act": 1,
+          "title": "Darkness Gathering",
+          "summary": "The party investigates strange occurrences in Millhaven, discovering that powerful individuals have been secretly meeting. They must gather clues from the observatory, question witnesses, and uncover the first hints of the Eternal Circle's existence."
+        },
+        {
+          "act": 2,
+          "title": "The Hidden Path",
+          "summary": "Following leads to an abandoned monastery in the Whisper Woods, the party discovers ritual sites where stars were pulled from the sky. They encounter Brother Aldric and learn the truth about the cabal's goals while facing cultist guardians."
+        },
+        {
+          "act": 3,
+          "title": "Celestial Allies",
+          "summary": "The party seeks a counter-ritual by journeying to the Skyreach Peaks where the Constellation Spirit dwells. They must prove their worth through trials, gain celestial knowledge, and prepare for the final confrontation with the Eternal Circle."
+        },
+        {
+          "act": 4,
+          "title": "The Final Seal",
+          "summary": "Racing against time, the party infiltrates the Eternal Circle's sanctum beneath the old cathedral during their ultimate ritual. They must defeat Velkor Wrenn, reverse the stellar drain, and restore the night sky before reality collapses."
+        }
+      ],
+      "openingScene": "The party arrives in Millhaven on market day to find the town square buzzing with worried whispers. Sera Brightwind stands atop the observatory steps, pleading for help as she points to a detailed star chart showing gaps in familiar constellations. Nearby merchants complain that healing potions are losing potency and enchanted items flicker unpredictably.",
+      "firstPlayerChoice": "Do you approach Sera Brightwind to offer assistance, investigate the failing magic items at the market stalls, or seek information at the local tavern about recent strange events?",
+      "createdAt": "2026-06-03T20:12:55.936Z",
+      "updatedAt": "2026-06-03T20:12:55.936Z"
+    }
+  ],
+  "completedQuests": [],
+  "archivedQuests": [
+    {
+      "id": "whispers-in-the-fog-1780176786890",
+      "title": "Whispers in the Fog",
+      "type": "main",
+      "status": "archived",
+      "questLength": "medium",
+      "theme": "classic fantasy mystery",
+      "tone": "heroic but with realistic consequences",
+      "difficulty": "standard",
+      "playerExperienceLevel": "beginner",
+      "premise": "The prosperous mining town of Thornhaven has fallen silent. No travelers have emerged in three weeks, and a strange fog now surrounds its walls. The regional lord seeks brave souls to investigate the disappearance of over two hundred citizens.",
+      "mainConflict": "An ancient sealed chamber was breached during mining operations, releasing a forgotten entity that feeds on memories and voice. The townsfolk are trapped in a waking dream, forgetting who they are one day at a time.",
+      "primaryThreat": "The Veilwarden, a psychic aberration imprisoned centuries ago by a forgotten order of mages, now slowly consuming the town's collective identity to rebuild its strength.",
+      "startingLocation": "The Crossroads Inn, a waystation one mile from Thornhaven where worried merchants and families of the missing have gathered.",
+      "importantNPCs": [
+        {
+          "name": "Elena Corvith",
+          "role": "Merchant leader organizing the concerned families",
+          "description": "A determined middle-aged trader whose husband and daughter are trapped in Thornhaven. Pragmatic and resourceful, offering local knowledge and supplies."
+        },
+        {
+          "name": "Brother Aldric",
+          "role": "Wandering scholar and historian",
+          "description": "An elderly monk researching regional legends who recognizes clues about the ancient sealing ritual. Frail but knowledgeable."
+        },
+        {
+          "name": "Marcus the Remembered",
+          "role": "Partially affected survivor and guide",
+          "description": "A town guard who escaped the fog but loses more memories each day. Desperate to help save his home before he forgets why he cares."
+        }
+      ],
+      "acts": [
+        {
+          "act": 1,
+          "title": "Into the Fog",
+          "summary": "Players investigate the Crossroads Inn, meet concerned parties, and make their first foray into the fog surrounding Thornhaven. They discover silent townsfolk wandering aimlessly and must find safe passage to the town center while avoiding memory-draining fog wraiths. The act ends when they discover the breached mine entrance."
+        },
+        {
+          "act": 2,
+          "title": "Echoes of the Past",
+          "summary": "Exploring Thornhaven, players gather clues from the town's library, temple, and manor house about the ancient sealing. They encounter increasingly hostile manifestations as the Veilwarden becomes aware of them. Brother Aldric helps decode old texts revealing the entity's nature and the original binding ritual."
+        },
+        {
+          "act": 3,
+          "title": "Descent into Memory",
+          "summary": "Players venture into the mine to reach the ancient chamber. They face memory-twisted reflections of townsfolk and must solve puzzles based on recovered historical fragments. Marcus's condition worsens, forcing difficult choices about his fate. They discover the ritual components needed to reseal or destroy the Veilwarden."
+        },
+        {
+          "act": 4,
+          "title": "The Binding Choice",
+          "summary": "Players confront the Veilwarden in the unsealed chamber. They must perform the complex ritual while defending against psychic attacks and memory phantoms. Success offers choices: reseal the entity saving most townsfolk but leaving some memory loss, or destroy it risking casualties but ensuring permanent safety. Consequences reshape Thornhaven's future."
+        }
+      ],
+      "openingScene": "Rain patters against the windows of the Crossroads Inn as worried voices fill the common room. A map of Thornhaven lies spread across the largest table, surrounded by merchants, farmers, and families staring at the fog-shrouded town visible through the window. Elena Corvith notices your arrival and approaches with desperate hope in her eyes.",
+      "firstPlayerChoice": "Do you speak with Elena to learn about the situation, approach Brother Aldric studying ancient texts in the corner, examine the fog from the window with the other observers, or speak with the innkeeper about what travelers have reported?",
+      "createdAt": "2026-05-30T21:33:06.890Z",
+      "updatedAt": "2026-05-30T21:33:06.890Z",
+      "archivedAt": "2026-06-01T20:42:26.176Z"
+    },
+    {
+      "id": "shadows-over-the-quiet-village-1780345014968",
+      "title": "Shadows Over the Quiet Village",
+      "type": "main",
+      "status": "archived",
+      "questLength": "medium",
+      "theme": "classic fantasy mystery",
+      "tone": "heroic but with realistic consequences",
+      "difficulty": "standard",
+      "playerExperienceLevel": "beginner",
+      "premise": "The peaceful village of Thornhaven has fallen under a strange curse where citizens lose their voices and memories one by one. The party must uncover the truth behind the affliction before the entire population falls silent forever.",
+      "mainConflict": "A forgotten pact made generations ago is unraveling, causing the curse. The party must discover what their ancestors promised, to whom, and find a way to fulfill or break the agreement without destroying the village.",
+      "primaryThreat": "The Whispering Shade, a wronged spirit bound beneath the village who was promised remembrance but has been forgotten, now stealing voices and memories as revenge.",
+      "startingLocation": "Thornhaven Village Square, where a silent crowd gathers around the dried-up Speaking Well, once the heart of community gatherings.",
+      "importantNPCs": [
+        {
+          "name": "Elder Maris",
+          "role": "Village Leader",
+          "description": "An elderly woman who has not yet lost her voice but feels it fading. She remembers fragments of old songs her grandmother taught her that may hold clues."
+        },
+        {
+          "name": "Finn the Keeper",
+          "role": "Archive Caretaker",
+          "description": "A nervous young man who tends the village records. He discovered strange gaps in the historical documents before partially losing his memory."
+        },
+        {
+          "name": "Silent Sara",
+          "role": "First Victim",
+          "description": "A child who lost her voice weeks ago. She communicates through drawings that depict strange symbols and a figure beneath the ground."
+        }
+      ],
+      "acts": [
+        {
+          "act": 1,
+          "title": "The Voiceless Plea",
+          "summary": "Arrive in Thornhaven and investigate the curse's symptoms. Interview affected villagers, examine the dried well, and discover the first clues pointing to a forgotten history. Encounter minor magical disturbances and shadowy apparitions."
+        },
+        {
+          "act": 2,
+          "title": "Echoes of the Past",
+          "summary": "Delve into village archives and explore surrounding ruins to uncover the original pact. Face guardians protecting old secrets and solve puzzles left by ancestors. Learn the identity of the Whispering Shade and why it was bound."
+        },
+        {
+          "act": 3,
+          "title": "Beneath the Stones",
+          "summary": "Venture into the caverns beneath Thornhaven to confront the Whispering Shade directly. Navigate trapped passages, face manifestations of stolen memories, and discover the truth of the broken promise. Decide how to approach the spirit."
+        },
+        {
+          "act": 4,
+          "title": "The Price of Voices",
+          "summary": "Execute the chosen solution, whether fulfilling the pact through ritual, negotiating release, or binding the spirit anew. Face consequences of the choice as some voices return but others may be lost. Restore balance to Thornhaven while addressing the moral weight of ancestral debts."
+        }
+      ],
+      "openingScene": "You arrive at Thornhaven on a gray afternoon to find the village square unnaturally quiet. Dozens of people stand motionless around a stone well, their lips moving soundlessly. An elderly woman approaches, her voice barely a whisper: 'Thank the gods you've come. We are forgetting how to speak, how to remember. Soon there will be nothing left of us but silence.'",
+      "firstPlayerChoice": "Do you: A) Speak with Elder Maris to learn more about when the curse began, B) Approach the silent villagers and examine them for magical effects, or C) Investigate the dried well at the center of the square?",
+      "createdAt": "2026-06-01T20:16:54.968Z",
+      "updatedAt": "2026-06-01T20:16:54.968Z",
+      "archivedAt": "2026-06-01T20:42:26.176Z"
+    },
+    {
+      "id": "shadows-over-the-valley-1780346546176",
+      "campaignId": "the-silence-of-thornwatch-1780346546176",
+      "campaignName": "The Silence of Thornwatch",
+      "title": "Shadows Over the Valley",
+      "type": "main",
+      "status": "archived",
+      "questLength": "medium",
+      "theme": "classic fantasy mystery",
+      "tone": "heroic but with realistic consequences",
+      "difficulty": "standard",
+      "playerExperienceLevel": "beginner",
+      "premise": "The peaceful valley town of Thornwatch has been struck by a mysterious curse. Citizens fall into unnatural sleep and wake with no memory, while strange symbols appear throughout the region. The heroes must uncover the truth behind these events before the entire valley succumbs to darkness.",
+      "mainConflict": "An ancient pact made by the town's founders is unraveling, releasing a forgotten entity that feeds on memories and dreams. The heroes must discover what was promised, what was broken, and how to set things right.",
+      "primaryThreat": "The Hollow Watcher, a spectral entity bound beneath the town generations ago, now weakening its prison and draining the life force of the valley's inhabitants to regain physical form.",
+      "startingLocation": "Thornwatch, a valley farming community of 400 souls, known for its apple orchards and the ancient stone circle called the Founder's Ring on the hillside above town.",
+      "importantNPCs": [
+        {
+          "name": "Elder Marris Blackwood",
+          "role": "Town elder and quest giver",
+          "description": "A weathered woman in her sixties who suspects the current troubles relate to her family's hidden history as one of the founding bloodlines."
+        },
+        {
+          "name": "Finn Copperkettle",
+          "role": "Local innkeeper and information source",
+          "description": "A jovial halfling who runs the Harvest Moon Inn and knows everyone's business, though he hides his own growing fear as his daughter fell victim to the sleeping curse."
+        },
+        {
+          "name": "Sister Aldwen",
+          "role": "Healer and spiritual guide",
+          "description": "A devoted cleric who tends the afflicted and maintains the town's small shrine, she has been researching old texts for answers and provides healing support."
+        },
+        {
+          "name": "Garrett Stonefist",
+          "role": "Captain of the town militia",
+          "description": "A stern dwarf veteran who organizes patrols and defenses but feels powerless against an enemy he cannot fight with steel alone."
+        }
+      ],
+      "acts": [
+        {
+          "act": 1,
+          "title": "The Waking Nightmare",
+          "summary": "Heroes arrive in Thornwatch and investigate the sleeping sickness. They discover strange symbols around afflicted homes, encounter minor spectral manifestations, and learn of the Founder's Ring. The act climaxes when they prevent the Hollow Watcher from claiming another victim and realize this is no ordinary curse."
+        },
+        {
+          "act": 2,
+          "title": "Secrets of the Founders",
+          "summary": "The party investigates the town's history, exploring the Founder's Ring and discovering hidden chambers beneath it. They learn the founders trapped the Hollow Watcher using a binding ritual powered by five bloodline families. One family line has ended, weakening the seal. They must find descendants of the other families and evidence of the original pact."
+        },
+        {
+          "act": 3,
+          "title": "The Fraying Bonds",
+          "summary": "As more bloodline descendants are identified, the Hollow Watcher targets them directly, attempting to sever all connections to the binding. The heroes must protect key NPCs while gathering ritual components to reinforce or remake the seal. They face possessed townsfolk and manifestations of stolen memories given terrible form."
+        },
+        {
+          "act": 4,
+          "title": "The Covenant Restored",
+          "summary": "The Hollow Watcher breaks free from its weakened prison and threatens to consume the entire valley. The heroes must perform the binding ritual at the Founder's Ring, making difficult choices about what sacrifices the ritual demands. They face the entity directly while completing the ceremony, determining whether to imprison it again, destroy it, or find an alternative resolution."
+        }
+      ],
+      "openingScene": "You arrive in Thornwatch on a grey autumn afternoon. The valley should be bustling with harvest activity, but an unnatural quiet hangs over the orchards. At the town's edge, you find Finn Copperkettle posting notices on a board outside his inn. His usual smile is strained as he notices your approach. 'Travelers? Thank the gods. We need help desperately. People are falling asleep and won't wake up—seven so far. And those who do wake remember nothing, not even their own names.' He glances nervously toward the hills where ancient standing stones are visible. 'Elder Blackwood has called for anyone brave enough to investigate. Will you help us?'",
+      "firstPlayerChoice": "Do you accept Finn's plea and agree to meet with Elder Blackwood, ask Finn more questions about the afflicted and the symptoms, or head directly to examine the standing stones on the hillside?",
+      "createdAt": "2026-06-01T20:42:26.176Z",
+      "updatedAt": "2026-06-01T20:42:26.176Z",
+      "archivedAt": "2026-06-03T20:12:55.936Z"
+    }
+  ]
+}

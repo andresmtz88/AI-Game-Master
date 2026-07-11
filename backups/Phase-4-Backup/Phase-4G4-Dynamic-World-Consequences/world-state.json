@@ -1,0 +1,60 @@
+{
+  "currentLocation": "Observatory Tower",
+  "currentObjective": "Investigate the strange telescope",
+  "completedObjectives": [
+    "Investigate the strange telescope",
+    "Investigate the missing stars"
+  ],
+  "majorChoices": [
+    "Trusted Sera Brightwind with the celestial map",
+    "Sealed the rift threatening the region",
+    "Destroyed the Observatory Tower to stop the ritual from spreading",
+    "I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Sealed the rift beneath Millhaven.",
+    "Restored the ancient beacon atop the lighthouse."
+  ],
+  "discoveredLocations": [
+    "Millhaven, a prosperous market town known for its observatory tower where the first star vanished three months ago.",
+    "Observatory Tower"
+  ],
+  "metNPCs": [],
+  "sessionNotes": [
+    "Campaign \"The Shattered Seal\" created at 2026-06-03T20:12:55.936Z.",
+    "Discovered this location",
+    "Current objective set: Investigate the strange telescope",
+    "Completed objective: Investigate the strange telescope",
+    "Major choice recorded: Trusted Sera Brightwind with the celestial map",
+    "Auto memory: objective set - Investigate the missing stars",
+    "Current objective set: Investigate the strange telescope",
+    "Auto memory: objective progress - Examining the telescope for signs of tampering",
+    "Auto memory: objective progress - Examining the telescope for signs of tampering",
+    "Auto memory: objective completed - Investigate the missing stars",
+    "Auto memory: advanced to Act 2",
+    "Auto memory: major choice recorded - Sealed the rift threatening the region",
+    "Auto memory: advanced to Act 3",
+    "Auto memory: advanced to Act 4",
+    "Auto memory: major choice recorded - Destroyed the Observatory Tower to stop the ritual from spreading",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - The Observatory Tower was destroyed to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - Sealed the rift beneath Millhaven.",
+    "Auto memory: major choice recorded - Sealed the rift beneath Millhaven.",
+    "Auto memory: world consequence recorded - Restored the ancient beacon atop the lighthouse.",
+    "Auto memory: major choice recorded - Restored the ancient beacon atop the lighthouse."
+  ],
+  "worldConsequences": [
+    "The Observatory Tower was destroyed to stop the ritual from spreading.",
+    "World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Sealed the rift beneath Millhaven.",
+    "Restored the ancient beacon atop the lighthouse."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "campaignName": "The Shattered Seal",
+  "status": "active",
+  "theme": "fantasy mystery",
+  "tone": "heroic",
+  "questLength": "medium",
+  "currentAct": 1,
+  "summary": "Stars have begun disappearing from the night sky, and with each loss, magic grows weaker in the realm. The party must uncover why celestial lights are fading before all magic vanishes forever.",
+  "lastUpdated": "2026-06-03T20:12:55.936Z",
+  "id": "the-shattered-seal-1780517575936",
+  "activeQuestId": "mystery-of-the-vanishing-stars-1780517575936"
+}

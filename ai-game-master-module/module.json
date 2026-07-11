@@ -1,0 +1,25 @@
+{
+  "id": "ai-game-master",
+  "title": "AI Game Master",
+  "description": "An AI-powered Game Master assistant for 5e SRD-compatible fantasy tabletop games.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Andres Martinez"
+    }
+  ],
+  "esmodules": [
+    "ai-gm.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "relationships": {
+    "systems": []
+  },
+  "license": "MIT"
+}

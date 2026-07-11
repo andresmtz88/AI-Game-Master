@@ -1,0 +1,22 @@
+{
+  "currentLocation": "Observatory Tower",
+  "currentObjective": "",
+  "completedObjectives": [
+    "Investigate the strange telescope"
+  ],
+  "majorChoices": [
+    "Trusted Sera Brightwind with the celestial map"
+  ],
+  "discoveredLocations": [
+    "Millhaven, a prosperous market town known for its observatory tower where the first star vanished three months ago.",
+    "Observatory Tower"
+  ],
+  "metNPCs": [],
+  "sessionNotes": [
+    "Campaign \"The Shattered Seal\" created at 2026-06-03T20:12:55.936Z.",
+    "Discovered this location",
+    "Current objective set: Investigate the strange telescope",
+    "Completed objective: Investigate the strange telescope",
+    "Major choice recorded: Trusted Sera Brightwind with the celestial map"
+  ]
+}

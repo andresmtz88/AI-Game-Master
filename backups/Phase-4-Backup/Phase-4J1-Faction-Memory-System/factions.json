@@ -1,0 +1,13 @@
+{
+  "factions": [
+    {
+      "name": "The Eternal Circle",
+      "reputation": "enemy",
+      "history": [
+        "The party destroyed an Eternal Circle ritual site and recovered three stellar essence shards containing stolen star power. Cultists fled to warn Velkor at the main sanctum."
+      ],
+      "createdAt": "2026-06-07T17:19:40.134Z",
+      "updatedAt": "2026-06-07T17:19:40.134Z"
+    }
+  ]
+}

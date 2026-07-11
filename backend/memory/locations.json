@@ -1,0 +1,32 @@
+{
+  "locations": [
+    {
+      "name": "Observatory Tower",
+      "status": "restored",
+      "description": "Observatory Tower was restored as a result of the party's actions.",
+      "history": [
+        {
+          "date": "2026-06-09T20:27:50.117Z",
+          "note": "Observatory Tower was destroyed as a result of the party's actions."
+        },
+        {
+          "date": "2026-06-09T20:46:02.447Z",
+          "note": "Observatory Tower was destroyed as a result of the party's actions."
+        },
+        {
+          "date": "2026-06-10T20:00:50.055Z",
+          "note": "Observatory Tower was restored as a result of the party's actions."
+        },
+        {
+          "date": "2026-06-10T20:09:57.708Z",
+          "note": "Observatory Tower was fortified as a result of the party's actions."
+        }
+      ],
+      "createdAt": "2026-06-09T20:27:50.117Z",
+      "updatedAt": "2026-06-10T20:29:53.722Z",
+      "relatedNPCs": [
+        "Sera Brightwind"
+      ]
+    }
+  ]
+}

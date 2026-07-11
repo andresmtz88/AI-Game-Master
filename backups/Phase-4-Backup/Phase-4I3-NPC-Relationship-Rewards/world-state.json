@@ -1,0 +1,88 @@
+{
+  "currentLocation": "Ruined Cathedral Archives",
+  "currentObjective": "Investigate the strange telescope",
+  "completedObjectives": [
+    "Investigate the strange telescope",
+    "Investigate the missing stars"
+  ],
+  "majorChoices": [
+    "Trusted Sera Brightwind with the celestial map",
+    "Sealed the rift threatening the region",
+    "Destroyed the Observatory Tower to stop the ritual from spreading",
+    "I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Sealed the rift beneath Millhaven.",
+    "Restored the ancient beacon atop the lighthouse.",
+    "Sera offers us a new side quest: recover the missing star charts from the ruined cathedral beneath Millhaven.",
+    "We recover the missing star charts from the ruined cathedral."
+  ],
+  "discoveredLocations": [
+    "Millhaven, a prosperous market town known for its observatory tower where the first star vanished three months ago.",
+    "Observatory Tower",
+    "Ruined Cathedral Archives"
+  ],
+  "metNPCs": [],
+  "sessionNotes": [
+    "Campaign \"The Shattered Seal\" created at 2026-06-03T20:12:55.936Z.",
+    "Discovered this location",
+    "Current objective set: Investigate the strange telescope",
+    "Completed objective: Investigate the strange telescope",
+    "Major choice recorded: Trusted Sera Brightwind with the celestial map",
+    "Auto memory: objective set - Investigate the missing stars",
+    "Current objective set: Investigate the strange telescope",
+    "Auto memory: objective progress - Examining the telescope for signs of tampering",
+    "Auto memory: objective progress - Examining the telescope for signs of tampering",
+    "Auto memory: objective completed - Investigate the missing stars",
+    "Auto memory: advanced to Act 2",
+    "Auto memory: major choice recorded - Sealed the rift threatening the region",
+    "Auto memory: advanced to Act 3",
+    "Auto memory: advanced to Act 4",
+    "Auto memory: major choice recorded - Destroyed the Observatory Tower to stop the ritual from spreading",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - The Observatory Tower was destroyed to stop the ritual from spreading.",
+    "Auto memory: major choice recorded - I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Auto memory: world consequence recorded - Sealed the rift beneath Millhaven.",
+    "Auto memory: major choice recorded - Sealed the rift beneath Millhaven.",
+    "Auto memory: world consequence recorded - Restored the ancient beacon atop the lighthouse.",
+    "Auto memory: major choice recorded - Restored the ancient beacon atop the lighthouse.",
+    "Auto memory: side quest added - Decide what to do with the starlight fragment: return it to the Constellation Spirit at Skyreach Peaks or have Master Torvan fashion it into a protective ward.",
+    "Auto memory: side quest added - Recover the Missing Star Charts",
+    "Auto memory: major choice recorded - Sera offers us a new side quest: recover the missing star charts from the ruined cathedral beneath Millhaven.",
+    "Auto memory: new location recorded - Ruined Cathedral Archives",
+    "Auto memory: objective progress - Located the star charts in the eastern vault of the ruined cathedral archives and encountered Eternal Circle cultists attempting to take them.",
+    "Auto memory: major choice recorded - We recover the missing star charts from the ruined cathedral.",
+    "Auto memory: side quest completed - Recover the Missing Star Charts",
+    "Auto memory: major choice recorded - We recover the missing star charts from the ruined cathedral.",
+    "Auto memory: side quest ignored - Recover the Missing Star Charts",
+    "Auto memory: NPC personal quest added - Sera Brightwind: Recover Aldrin Starweaver's Lost Journal",
+    "Auto memory: NPC personal quest completed - Sera Brightwind: Recover Aldrin Starweaver's Lost Journal",
+    "Auto memory: objective progress - Recovered Aldrin Starweaver's journal which revealed that Velkor needs five stars of the Cardinal Pattern to complete the Harvest Ritual. Three stars have already vanished. Combined with the star charts, Sera can now predict which stars Velkor will target next.",
+    "Auto memory: NPC personal quest completed - Sera Brightwind: Recover Aldrin Starweaver's Lost Journal",
+    "Auto memory: NPC relationship reward applied - Sera Brightwind"
+  ],
+  "worldConsequences": [
+    "The Observatory Tower was destroyed to stop the ritual from spreading.",
+    "World consequence: I destroy the Observatory Tower to stop the ritual from spreading.",
+    "Sealed the rift beneath Millhaven.",
+    "Restored the ancient beacon atop the lighthouse."
+  ],
+  "sideQuests": [
+    "Decide what to do with the starlight fragment: return it to the Constellation Spirit at Skyreach Peaks or have Master Torvan fashion it into a protective ward.",
+    {
+      "title": "Recover the Missing Star Charts",
+      "status": "ignored",
+      "description": "Venture into the ruined cathedral archives beneath Millhaven to recover ancient star charts that predate the Observatory's records. These charts may reveal the pattern behind Velkor Wrenn's star selections and help locate the Eternal Circle's sanctum.",
+      "createdAt": "2026-06-06T17:22:52.679Z",
+      "completedAt": "2026-06-06T17:38:34.159Z",
+      "ignoredAt": "2026-06-06T17:52:34.952Z"
+    }
+  ]
+}
