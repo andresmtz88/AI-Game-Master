@@ -1,0 +1,2 @@
+CLAUDE_API_KEY=replace_with_your_anthropic_key
+PORT=3000
